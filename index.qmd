@@ -3,9 +3,7 @@ title: "Sarah Lee"
 author: "Sarah Lee"
 date: "2024-3-11"
 about:
-  template: trestles
-  image-width: 10em
-  image-shape: round
+  template: marquee
   links:
     - icon: CV
       text: CV
