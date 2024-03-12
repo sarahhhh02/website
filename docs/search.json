@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a personal website containing a short bio and CV of Sarah Lee. To see more of what coding been done can, you can find everything live via GitHub link below.\nhttps://github.com/sarahhhh02/personal_website.git"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Phone: 647-767-5470\nEmail: sarahhhh.lee@mail.utoronto.ca\nAddress: North York, Toronto, ON\n\nThe best way to contact me is through the email address above!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sarah Lee",
+    "section": "",
+    "text": "Bio\nWelcome to my personal website!\nI am a 4th year student in University of Toronto in the Arts and Science department. I am currently studying Mathematics, pursuing to gain a Bachelor’s in Mathematics Major. Along with a Bachelor in Statistics and Digital Humanities Minor. My expected date for graduation is in April 2025.\n\n\nEducation\nBachelor of Science (BSc) Mathematics Major Candidate | University of Toronto\nBachelor of Science (BSc) Statistics Minor Candidate | University of Toronto\nBachelor of Arts (BA) Digital Humanities Minor Candidate| University of Toronto\n\n\nExperience\nStylist (2023 - Present) | Club Monaco\nSales Associate (2021 - 2023) | Global Pet Foods\nBarista (2021) | Two Nine Tea"
+  }
+]

@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+This is a personal website containing a short bio and CV of Sarah Lee. To see more of what coding been done can, you can find everything live via GitHub link below.
+
+<https://github.com/sarahhhh02/personal_website.git>
